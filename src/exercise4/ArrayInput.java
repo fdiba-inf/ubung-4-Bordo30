@@ -16,6 +16,6 @@ public class ArrayInput {
             numbers[index] = input.nextInt();
         }
 
-        System.out.println(Arrays.toString(numbers));
+        System.out.println("Numbers: " + Arrays.toString(numbers));
     }
 }
